@@ -2,7 +2,7 @@
 Документация к API сервиса "SpravPortal - Кто звонит" (SpravPortal WhoCalls API) для проверки номеров телефонов на спам.
 Версия API 1.0.25 (01.08.2024)
 
-Официальная страница сервиса: https://www.spravportal.ru/api/whocalls
+Официальная страница сервиса: [https://www.spravportal.ru/api/whocalls](https://www.spravportal.ru/api/whocalls?utm_source=github&utm_campaign=whocallsapi)
 
 # Описание API
 
